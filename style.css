@@ -1,0 +1,31 @@
+body {
+    background-color: #ecdddd;  
+ }
+hr  {
+    border-style: none;
+    border-top-style: dotted;
+    border-color: grey;
+    border-width: 5px;
+    width: 5%;
+  }
+
+h1 {
+   color : #7a716f;
+   /* font-size: 40px; */
+  
+}
+h1:hover {
+  color : #565251; 
+}
+h3 {
+   color : #7a716f;
+}
+h3:hover {
+  color : #565251; 
+}
+
+.heading {
+  
+  font-size: 20px;
+   
+}
